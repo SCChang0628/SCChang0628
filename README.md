@@ -1,4 +1,4 @@
-### About Me
+### Shan Chun, Chang (Leo)
 
 Shan Chun Chang (Leo) received the B.S. degree in Electrical Engineering from the National Yunlin University of Science and Technology (NYUST), Yunlin, Taiwan. He is currently pursuing his M.S. degree in the same department at NYUST. 
 
