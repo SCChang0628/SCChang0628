@@ -1,7 +1,102 @@
-### Shan Chun, Chang (Leo)
+<div align="center">
 
-Shan Chun Chang (Leo) received the B.S. degree in Electrical Engineering from the National Yunlin University of Science and Technology (NYUST), Yunlin, Taiwan. He is currently pursuing his M.S. degree in the same department at NYUST. 
+### Robotics Engineer · Digital Twin · Autonomous Systems
 
-His research and development interests include robotics, digital twin technologies, and autonomous navigation. He specializes in ROS/ROS 2, system simulation with NVIDIA Isaac Sim, and SLAM algorithms. Additionally, he serves as a Head Referee for the VEX Robotics Competition Taiwan Open.
+<a href="https://github.com/SCChang0628">
+  <img src="https://img.shields.io/badge/GitHub-SCChang0628-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/leo-chang-3086a8379/">
+  <img src="https://img.shields.io/badge/LinkedIn-Leo_Chang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:leolamigo0628@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Leo_chang-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-*Newly Updated 2026/05*
+</div>
+
+<br />
+
+## About Me
+
+* 🎓 M.S. student in **Electrical Engineering** at **National Yunlin University of Science and Technology (NYUST)**
+* 🤖 Focused on **Robotics, Digital Twin Technologies, and Autonomous Navigation**
+* 🧠 Working with **ROS / ROS 2, SLAM, Navigation, and Robot Control**
+* 🏭 Developing simulation and digital-twin systems with **NVIDIA Isaac Sim**
+* 🦾 Interested in **Simulation-to-Real Robotics** and intelligent autonomous systems
+* 🐕 Exploring **Reinforcement Learning** and locomotion control with **Isaac Lab**
+* 📡 Experienced with robotic sensors including **LiDAR, IMU, Odometry, and Computer Vision**
+* 🏆 Head Referee for the **VEX Robotics Competition Taiwan Open**
+
+<br />
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+
+### Robotics & Simulation
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge\&logo=ros\&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge\&logo=ros\&logoColor=white)
+![NVIDIA Omniverse](https://img.shields.io/badge/Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![NVIDIA Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
+![NVIDIA Isaac Lab](https://img.shields.io/badge/Isaac_Lab-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
+
+### Development Environment
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+</div>
+
+<br />
+
+## 🔬 Research Interests
+
+<div align="center">
+
+|       🤖 Robotics      |    🏭 Digital Twin    | 🧭 Autonomous Navigation |
+| :--------------------: | :-------------------: | :----------------------: |
+|      Robot Control     |    NVIDIA Isaac Sim   |           SLAM           |
+|     Mobile Robotics    |   Physics Simulation  |       Path Planning      |
+| Reinforcement Learning |   Simulation-to-Real  |       Sensor Fusion      |
+|      Manipulation      | Industrial Simulation |     ROS 2 Navigation     |
+
+</div>
+
+<br />
+
+## 🚀 What I'm Working On
+
+```text
+Robotics
+├── Autonomous Mobile Robots
+├── Robot Dog Locomotion
+├── Robot Control & Navigation
+└── Sensor Integration
+    ├── LiDAR
+    ├── IMU
+    └── Odometry
+
+Digital Twin
+├── NVIDIA Isaac Sim
+├── ROS 2 Integration
+├── Industrial Automation
+└── Physics Simulation
+
+AI / Autonomous Systems
+├── SLAM
+├── Path Planning
+├── Reinforcement Learning
+├── Isaac Lab
+└── Computer Vision
+```
+
