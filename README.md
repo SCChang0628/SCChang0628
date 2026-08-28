@@ -1,5 +1,6 @@
 <div align="center">
 
+# Leo Chang
 ### Robotics Engineer · Digital Twin · Autonomous Systems
 
 <a href="https://github.com/SCChang0628">
@@ -26,10 +27,11 @@
 * 🐕 Exploring **Reinforcement Learning** and locomotion control with **Isaac Lab**
 * 📡 Experienced with robotic sensors including **LiDAR, IMU, Odometry, and Computer Vision**
 * 🏆 Head Referee for the **VEX Robotics Competition Taiwan Open**
+* 🤖 **10+ years** of hands-on experience in **VEX Robotics** and **mobile robot** development
 
 <br />
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -56,7 +58,7 @@
 
 <br />
 
-## 🔬 Research Interests
+## Research
 
 <div align="center">
 
@@ -68,32 +70,4 @@
 |      Manipulation      | Industrial Simulation |     ROS 2 Navigation     |
 
 </div>
-
-<br />
-
-## 🚀 What I'm Working On
-
-```text
-Robotics
-├── Autonomous Mobile Robots
-├── Robot Dog Locomotion
-├── Robot Control & Navigation
-└── Sensor Integration
-    ├── LiDAR
-    ├── IMU
-    └── Odometry
-
-Digital Twin
-├── NVIDIA Isaac Sim
-├── ROS 2 Integration
-├── Industrial Automation
-└── Physics Simulation
-
-AI / Autonomous Systems
-├── SLAM
-├── Path Planning
-├── Reinforcement Learning
-├── Isaac Lab
-└── Computer Vision
-```
 
