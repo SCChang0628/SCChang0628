@@ -43,14 +43,15 @@
 
 ### Robotics & Simulation
 
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge\&logo=ros\&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge\&logo=ros\&logoColor=white)
-![NVIDIA Omniverse](https://img.shields.io/badge/Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![NVIDIA Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
-![NVIDIA Isaac Lab](https://img.shields.io/badge/Isaac_Lab-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
+[![NVIDIA Omniverse](https://img.shields.io/badge/Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/omniverse/)
+[![NVIDIA Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)](https://developer.nvidia.com/isaac/sim)
+[![NVIDIA Isaac Lab](https://img.shields.io/badge/Isaac_Lab-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)](https://developer.nvidia.com/isaac/lab)
+[![VEX Robotics](https://img.shields.io/badge/VEX_Robotics-ED1C24?style=for-the-badge)](https://www.vexrobotics.com/)
 
 ### Development Environment
 
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge\&logo=ros\&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge\&logo=ros\&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
